@@ -1,0 +1,5 @@
+{
+  "name": "Tanu's Cake - Premium Bakery in Jamkhandi",
+  "description": "Order fresh custom cakes in Jamkhandi from Tanu's Cake. Birthday cakes, wedding cakes, photo cakes and theme cakes available. WhatsApp ordering available.",
+  "requestFramePermissions": ["geolocation"]
+}
